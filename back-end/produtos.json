@@ -1,0 +1,86 @@
+[
+    {
+        "categoria": "Geladeira",
+        "nome": "Geladeira Frost Free Brastemo Side Inverse 540l",
+        "preco": 6389,
+        "preco_final": 5019,
+        "img": "geladeira2.jpeg"
+    },
+    {
+        "categoria": "Geladeira",
+        "nome": "Geladeira Frost Free Brastemp Branca 375l",
+        "preco": 2068.6,
+        "preco_final": 1910,
+        "img": "geladeira1.jpeg"
+    },
+    {
+        "categoria": "Geladeira",
+        "nome": "Geladeira Frost Free Consul Prata 340l",
+        "preco": 2199.9,
+        "preco_final": 2069,
+        "img": "geladeira3.jpeg"
+    },
+    {
+        "categoria": "Fogão",
+        "nome": "Fogão 4 Bocas Consul Inox com Mesa de Vidro",
+        "preco": 1209.9,
+        "preco_final": 1129,
+        "img": "fogao1.jpeg"
+    },
+    {
+        "categoria": "Fogão",
+        "nome": "Fogão de Piso 4 Bocas Atlas Monaco com Acendimento Automático",
+        "preco": 609.98,
+        "preco_final": 519.7,
+        "img": "fogao2.jpeg"
+    },
+    {
+        "categoria": "Microondas",
+        "nome": "Microondas Consul 32l Inox 220v",
+        "preco": 580.9,
+        "preco_final": 409.88,
+        "img": "microondas1.jpeg"
+    },
+    {
+        "categoria": "Microondas",
+        "nome": "Microondas 25l Espelhado Philco 220v",
+        "preco": 508.78,
+        "preco_final": 464.53,
+        "img": "microondas2.jpeg"
+    },
+    {
+        "categoria": "Microondas",
+        "nome": "Forno Microondas Electrolux 20L Branco",
+        "preco": 459.9,
+        "preco_final": 436,
+        "img": "microondas3.jpeg"
+    },
+    {
+        "categoria": "Lava-louças",
+        "nome": "Lava Louça Electrolux Inox com 10 Serviços, 06 Programas de Lavagem 127v",
+        "preco": 3599,
+        "preco_final": 2799.9,
+        "img": "lavaLouca2.jpeg"
+    },
+    {
+        "categoria": "Lava-louças",
+        "nome": "Lava Louça Compacta 8 Serviços Branca 127v Brastemp",
+        "preco": 1970.5,
+        "preco_final": 1730,
+        "img": "lavaLouca1.jpeg"
+    },
+    {
+        "categoria": "Lavadoura de Roupas",
+        "nome": "Lavadora de Roupa Brastemp 11KG com Turbo Performance Branca",
+        "preco": 1699,
+        "preco_final": 1214,
+        "img": "lavaRoupas2.jpeg"
+    },
+    {
+        "categoria": "Lavadoura de Roupas",
+        "nome": "Lavadora de Roupas Philco Inverter 12KG",
+        "preco": 2399.9,
+        "preco_final": 2179,
+        "img": "lavaRoupas1.jpeg"
+    }
+]
